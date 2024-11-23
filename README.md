@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImaneBenzegunine
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning about Data
-- 📫 You can reach me in my linkedin: https://www.linkedin.com/in/imanebenzegunine
+- 📫 You can reach me in my linkedin: https://www.linkedin.com/in/imane-benzegunine
 - ⚡ Fun fact about me: I like reading dictionaries
 
 <!---
